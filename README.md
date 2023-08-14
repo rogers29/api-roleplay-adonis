@@ -49,6 +49,7 @@ Projeto AdonisJS com TypeScript e TDD
  - Buscar Updates Adonis - `npx npm-check-updates -i`
  - Atualizar comandos ACE - `node ace generate:manifest`
  - Configurar nova versão dos testes JAPA - `node ace configure tests`
+ - Obs.: Necessário configurar o MySQL com usuário root e criação do database. 
 
 ### Links Úteis
  - https://docs.docker.com/
